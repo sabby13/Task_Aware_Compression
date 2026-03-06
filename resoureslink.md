@@ -1,5 +1,7 @@
 here are all the links for the initial synopsis 
 
+canvas
+https://www.canva.com/design/DAG_IU6bPQw/nQSBbjzpgQvaiap94Y9sEw/edit?utm_content=DAG_IU6bPQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 market:
 https://ieee-cas.org/presentation/ai-and-video-compression-era-internet-video-things
@@ -16,3 +18,4 @@ https://openaccess.thecvf.com/content/CVPR2025/html/Jia_Towards_Practical_Real-T
 https://www.ijcai.org/proceedings/2025/1165.pdf?utm_source=chatgpt.com
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ai++aware+compression+&btnG=
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10965634
+
